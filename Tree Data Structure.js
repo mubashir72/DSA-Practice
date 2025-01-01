@@ -1,5 +1,5 @@
 // Number of nodes
-let N = 7, Root = 1;
+let N = 8, Root = 1;
 
 // Adjacency list to store the tree
 let adj = new Array(N + 1).fill(null).map(() => []);
