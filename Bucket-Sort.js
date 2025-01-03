@@ -34,7 +34,7 @@ function bucketSort(arr) {
     }
 }
 
-let arr = [0.897, 0.565, 0.68566, 0.1234, 0.665, 0.3434];
+let arr = [0.897, 0.565, 0.685566, 0.1234, 0.665, 0.3434];
 bucketSort(arr);
 console.log("Sorted array is:");
 console.log(arr.join(" "));
